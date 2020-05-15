@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#9eda1d</color>
+    <color name="red">#bf3023</color>
+    <color name="green">#b107ec07</color>
+    <color name="blue">#0000ff</color>
+    <color name="light_grey">#aaaaaa</color>
+    <color name="grey">#888888</color>
+    <color name="dark_grey">#555555</color>
+
+    <color name="alarm_title_active">#444444</color>
+    <color name="alarm_title_outdated">#888888</color>
+    <color name="alarm_details">#888888</color>
+
+</resources>
